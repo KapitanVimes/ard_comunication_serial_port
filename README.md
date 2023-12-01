@@ -1,0 +1,2 @@
+# ard_comunication_serial_port
+Monitorowanie roslinek pozdro dzieciak
